@@ -1,5 +1,4 @@
-//Mark Zhang - 4 April 2021 - Zuul: text-based game that allows user to travel between different room\
-s and interact with items in the rooms
+//Mark Zhang - 4 April 2021 - Zuul: text-based game that allows user to travel between different rooms and interact with items in the rooms
 
 #include <iostream>
 #include <map>
